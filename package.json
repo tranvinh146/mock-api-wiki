@@ -1,0 +1,25 @@
+{
+  "name": "mock-api-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranvinh146/mock-api-wiki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranvinh146/mock-api-wiki/issues"
+  },
+  "homepage": "https://github.com/tranvinh146/mock-api-wiki#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
