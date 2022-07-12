@@ -17,7 +17,7 @@ const data = [
       id: 1,
       name: "Đức Trần",
       avatar:
-        "https://scontent.fsgn5-13.fna.fbcdn.net/v/t1.6435-9/48399013_597340754039167_2205736096162119680_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=9TtI3ZfTCXwAX9doAXL&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT9QNcO2-oRR_edhsRvUE-Tf_C0vG3CXqqjR9hI6LPicrQ&oe=62F371EF",
+        "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/290458177_1473051189801448_1215153013758150269_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=iTqkFuA1oXMAX-pN5lR&tn=z_y3qabHBJvss03G&_nc_ht=scontent.fsgn5-9.fna&oh=00_AT9OhsOOs98qi0GiZgc8Ft1-UlJOOYn0TgCpH4XdrHQKjg&oe=62D23A1D",
     },
   },
   {
@@ -29,9 +29,9 @@ const data = [
     status: "updated",
     author: {
       id: 2,
-      name: "Duy Quân",
+      name: "Phong Trần",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/ijsjxmkdybropjxspzbbi9puhw/image?_=1624032009634",
+        "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.6435-9/120731165_351843689563238_3270164734603652813_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eJNHFJstb7IAX_IMhiL&tn=yqbKCW8fI8WL0tWm&_nc_ht=scontent.fsgn5-12.fna&oh=00_AT84Q1I-un1lohJbHTuZtcsrW9NX8m3ALORwRLZX6Cex6g&oe=62F45DE7",
     },
   },
   {
@@ -43,9 +43,9 @@ const data = [
     status: "updated",
     author: {
       id: 3,
-      name: "Phong Trần",
+      name: "Hiếu Nguyễn",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/5qzcqdirxbdszj5i49wi34xcor/image?_=1654848482112",
+        "https://scontent.xx.fbcdn.net/v/t1.15752-9/292259582_3234549730126210_1710296646516134531_n.jpg?stp=dst-jpg_s280x280&_nc_cat=110&ccb=1-7&_nc_sid=aee45a&_nc_ohc=5SlFRscrj4cAX-a7oCV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIGjN7DudAIr_lNy83qenukZlPzxfoDln5qR7gUKhSXMw&oe=62F3E395",
     },
   },
   {
@@ -57,9 +57,9 @@ const data = [
     status: "created",
     author: {
       id: 4,
-      name: "Phong Trần",
+      name: "Phong Nguyễn",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/5qzcqdirxbdszj5i49wi34xcor/image?_=1654848482112",
+        "https://scontent.fsgn5-13.fna.fbcdn.net/v/t1.6435-9/48399013_597340754039167_2205736096162119680_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=9TtI3ZfTCXwAX9doAXL&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT9QNcO2-oRR_edhsRvUE-Tf_C0vG3CXqqjR9hI6LPicrQ&oe=62F371EF",
     },
   },
   // chapter_id = 2
@@ -89,7 +89,7 @@ const data = [
       id: 2,
       name: "Quân Trần",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/zthfwu6fk3f73n6a8egochjooc/image?_=1654848503731",
+        "https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.6435-1/146824639_2601441946815911_1188450292684094447_n.jpg?stp=dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Wlwecn7oDLYAX8HF3pm&_nc_ht=scontent.fsgn5-3.fna&oh=00_AT8ZJw1Bf9Ja6t5zYtty3OkJ01Qapp52D-4tuHR9ztAu1Q&oe=62F3729F",
     },
   },
   {
@@ -102,9 +102,9 @@ const data = [
     status: "updated",
     author: {
       id: 6,
-      name: "Phát Cù",
+      name: "Tú Hồ",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/dh6btmzhabg6inwu8df5j34rdh/image?_=1622563209918",
+        "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-1/275977069_3113760348939393_2459947977713419153_n.jpg?stp=c0.0.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_ohc=CAr1bVmI47EAX-oD0bg&tn=gPVEPqVsIrNWTzJi&_nc_ht=scontent.fsgn5-12.fna&oh=00_AT_CKT9S61fscpzGjtOTOEfj8H_ud54zDvsSnmyLXTRohQ&oe=62D2064A",
     },
   },
   // chapter_id = 3
@@ -117,9 +117,9 @@ const data = [
     status: "created",
     author: {
       id: 8,
-      name: "Andie",
+      name: "Nhân Lê",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/4woqjy97b3r87rnn5bpchaju6w/image?_=1620662409983",
+        "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/273123831_10220754003656304_4294504128792029664_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wQriHBy4lPEAX-mVBbK&_nc_ht=scontent.fsgn5-14.fna&oh=00_AT9UsNHuQ-fmgjNHil5xqfKU_GOg5eUsc4E7PFTTclf87Q&oe=62D182D6",
     },
   },
   // chapter_id = 4
@@ -134,7 +134,7 @@ const data = [
       id: 1,
       name: "Naomi Tran",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/yw6x9rmsgig5ze5mmm9kpmaiwy/image?_=1626105612448",
+        "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/290458177_1473051189801448_1215153013758150269_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=iTqkFuA1oXMAX-pN5lR&tn=z_y3qabHBJvss03G&_nc_ht=scontent.fsgn5-9.fna&oh=00_AT9OhsOOs98qi0GiZgc8Ft1-UlJOOYn0TgCpH4XdrHQKjg&oe=62D23A1D",
     },
   },
   // chapter_id = 5
