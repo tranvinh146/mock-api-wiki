@@ -75,7 +75,7 @@ const data = [
       id: 1,
       name: "Trần Vinh",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/3dh64e8ay78bjnbe4weuthy6cy/image?_=1654848461195",
+        "https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.6435-1/120956730_2854084888157617_8284394165454952957_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=FcX5ltcycSgAX_oY3Ss&_nc_ht=scontent.fsgn5-3.fna&oh=00_AT-bnGtLPHbt8hr0oYl_w3oaJUQ2_5RNerxpuIbI04HTKQ&oe=62F19ADC",
     },
   },
   {
