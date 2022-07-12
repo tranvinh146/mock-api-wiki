@@ -15,9 +15,9 @@ const data = [
     status: "created",
     author: {
       id: 1,
-      name: "Hiếu Nguyễn",
+      name: "Đức Trần",
       avatar:
-        "https://nexion.geekup.vn/api/v4/users/dgygmeunrfgztprfgzxuwi7jno/image?_=1654848453800",
+        "https://scontent.fsgn5-13.fna.fbcdn.net/v/t1.6435-9/48399013_597340754039167_2205736096162119680_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=9TtI3ZfTCXwAX9doAXL&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT9QNcO2-oRR_edhsRvUE-Tf_C0vG3CXqqjR9hI6LPicrQ&oe=62F371EF",
     },
   },
   {
